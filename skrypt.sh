@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Additional comment that wasnt here before
+
 echo "Program generujacy macierz m x n i znajdujacy w niej rozwiniecie 
 liczby pi i liczby e"
 
